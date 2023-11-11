@@ -40,14 +40,36 @@ input {
   padding: 6px 0px 6px 12px;
 }
 
+#info_ {
+  background-color: rgb(180, 176, 176);
+  display: none;
+  width: 200px;
+  height: auto;
+  font-size: 0.8rem;
+  color: black;
+  margin: 16px;
+  padding: 3px 2px 5px 12px;
+}
+
 #info {
   display: none;
+  border-radius: 10px;
+  width: 50px;
+  margin-left: 120px;
 }
 
 #output {
   margin-top: 20px;
   font-size: 1.5rem;
-  padding-left: 12px;
+  padding: 0px 0px 12px 12px;
+}
+
+#close {
+  background-color: transparent;
+  border: none;
+  font-size: 1.5rem;
+  margin-left: 150px;
+  width: 20px;
 }
 
 button {
@@ -61,6 +83,8 @@ button {
 }
 
 #to,
+#info,
+#close,
 #from,
 #clear,
 #convert:hover {
