@@ -21,10 +21,6 @@ A versatile and feature-rich currency converter web application that allows user
 2. **Clear:** It clears all the input values and result to provide clear environment for further conversions.
 3. **info:** It provides extra information of currencies,rate,timestamp.
 
-## Overview
-
-![image](image.jpg)
-
 ## Getting Started
 
 1. Clone the repository:
