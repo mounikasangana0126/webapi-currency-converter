@@ -9,9 +9,11 @@ A versatile and feature-rich currency converter web application that allows user
 - **Dynamic Currency Selection:** Choose from a comprehensive list of currencies for both source and target conversions.
 - **Responsive Design:** Ensures a consistent and enjoyable user experience across various devices.
 
-##Tech Stach
+## Tech Stack
 
--**HTML** -**CSS** -**JS**
+-**HTML**
+-**CSS**
+-**JS**
 
 ## key-features
 
