@@ -1,5 +1,7 @@
 # webapi-currency-converter
 
+## Description
+
 A versatile and feature-rich currency converter web application that allows users to quickly and accurately convert between different currencies. The project is built with HTML, CSS, and JavaScript, utilizing the [APILayer](https://apilayer.com/) API to fetch real-time exchange rates.
 
 ## Features
@@ -20,6 +22,10 @@ A versatile and feature-rich currency converter web application that allows user
 1. **Convert:** It helps to convert user required currencies to provide accurate result.
 2. **Clear:** It clears all the input values and result to provide clear environment for further conversions.
 3. **info:** It provides extra information of currencies,rate,timestamp.
+
+## Overview
+
+![overview](https://github.com/mounikasangana0126/webapi-currency-converter/blob/main/screenshots/image.jpg)
 
 ## Getting Started
 
