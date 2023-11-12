@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       headers: myHeaders
     }
     document.getElementById("result").style.display = "none";
+    document.getElementById("info_").style.display = "none";
   
     fetch("https://api.apilayer.com/exchangerates_data/symbols", requestOptions)
       .then(response => response.json())
@@ -40,6 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
       headers: myHeaders
     }
     document.getElementById("result").style.display = "none";
+    document.getElementById("info_").style.display = "none";
     
   
     fetch("https://api.apilayer.com/exchangerates_data/symbols", requestOptions)
@@ -75,6 +77,7 @@ document.addEventListener("DOMContentLoaded", () => {
       headers: myHeaders
     }
     document.getElementById("result").style.display = "none";
+    document.getElementById("info_").style.display = "none";
 
     fetch(`https://api.apilayer.com/exchangerates_data/convert?to=${To.value}&from=${From.value}&amount=${Amount.value}`, requestOptions)
       .then(response => response.json())
