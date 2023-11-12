@@ -25,7 +25,7 @@ A versatile and feature-rich currency converter web application that allows user
 
 ## Overview
 
-<img src="https://github.com/mounikasangana0126/webapi-currency-converter/blob/main/screenshots/img3.png" width="300px" height="300px"/>
+<img src="https://github.com/mounikasangana0126/webapi-currency-converter/blob/main/screenshots/img3.png" width="320px" height="280px"/>
 
 ## Getting Started
 
