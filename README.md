@@ -11,13 +11,19 @@ A versatile and feature-rich currency converter web application that allows user
 
 ## Tech Stack
 
--**HTML**
--**CSS**
--**JS**
+- **HTML**
+- **CSS**
+- **JS**
 
 ## key-features
 
-1.**Convert:** It helps to convert user required currencies to provide accurate result. 2.**Clear:** It clears all the input values and result to provide clear environment for further conversions. 3.**info:** It provides extra information of currencies,rate,timestamp.
+1. **Convert:** It helps to convert user required currencies to provide accurate result.
+2. **Clear:** It clears all the input values and result to provide clear environment for further conversions.
+3. **info:** It provides extra information of currencies,rate,timestamp.
+
+## Overview
+
+![image](image.jpg)
 
 ## Getting Started
 
