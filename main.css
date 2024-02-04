@@ -90,3 +90,19 @@ button {
 #convert:hover {
   cursor: pointer;
 }
+
+@media (width<380px) {
+  select,
+  input {
+    width: 80%;
+    margin: 20px 30px 20px 20px;
+  }
+  #convert,
+  #clear {
+    margin: 30px 15px 10px 15px;
+    width: 90px;
+  }
+  #output {
+    font-size: 1rem;
+  }
+}

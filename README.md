@@ -44,7 +44,7 @@ Explore the live [webapi Currency Converter Demo](https://webapi-currency-conver
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request..
 
 ## Acknowledgments
 
